@@ -1,22 +1,38 @@
-Description du bug
-Une description claire et concise du bug.
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-Comment reproduire le problème
-Étapes à suivre pour reproduire le bug :
-Étape 1
-Étape 2
-Étape 3
+---
 
-Comportement attendu
-Une description claire de ce à quoi vous vous attendiez.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-Captures d'écran / Logs
-Si applicable, ajoutez des captures d'écran ou des logs pour illustrer le problème.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-Environnement
-OS : [ex: Windows, macOS, Linux]
-Navigateur (le cas échéant) : [ex: Chrome, Firefox]
-Version : [ex: 1.0.0]
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-Informations complémentaires
-Ajoutez ici toute autre information pertinente.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
